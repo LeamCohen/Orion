@@ -9,7 +9,10 @@ ________        .__
 ```
 
 ##Overview
-Worm
+Encrypted and Secure Multithreaded Server-Client Chat 
 
 ##Components
--  Worm
+- Encryption Protocols
+- Multithreading
+- Password generator for the client to access in the server
+- First Entry Password to access the session
