@@ -8,10 +8,10 @@ ________        .__
         \/                     \/
 ```
 
-##Overview
+## Overview
 Encrypted and Secure Multithreaded Server-Client Chat 
 
-##Components
+## Components
 - Encryption Protocols
 - Multithreading
 - Password generator for the client to access in the server
